@@ -1,0 +1,56 @@
+.main{
+    background-color:#2077ba;
+    display: flex;
+    text-align: center;
+    line-height: 30px;
+    justify-content: center;
+    color: white;
+    
+}
+.done{
+    height: 30px;
+}
+.font{
+    color: white;
+}
+
+.pen{
+   height: 60px;
+}
+.tec{
+    background: #472278 linear-gradient(10deg, #472278 0%,#6329ae 100%);
+    width: 140px;
+    color: #c7c0ce;
+    align-content: center;
+    
+}
+.pro{
+    background:  #0e0518;
+    width: 28%;
+
+}
+pick{
+   background-color:  #472278 linear-gradient(10deg, #472278 0%,#6329ae 100%);
+    
+}
+input{
+    
+    
+    font-size: 26px;
+    border:none;
+}
+.pig{
+    background: #0e0518;
+    color: #c7c0ce;
+    width: 800px;
+    
+}
+.fort{
+    display: flex;
+}
+li{
+    
+    display: contents;
+    
+    
+}

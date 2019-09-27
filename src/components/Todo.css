@@ -1,0 +1,66 @@
+body{
+    background: red;
+}
+button{
+    color: blue;
+    background:aqua;
+}
+.butt{
+    margin-left: 380px;
+    width:100px;
+    height:30px;
+}
+.drive{
+    width:300px;
+    height:70px;
+}
+.obed{
+    width:100px;
+    height:75px;
+}
+.hook{
+    background: rgb(51, 49, 49);
+    color: rgb(255, 166, 0);
+    display: flex;
+    justify-content: space-between;
+    /* position: fixed; */
+    width: 100%;    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    margin: 10px;
+    list-style: none;
+}
+/* .pit{
+    position: relative;
+} */
+.show{
+    margin: 10px;
+    margin-top: 10px;
+}
+.design{
+    background: green;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    height: 40px;
+    margin: -8px;
+    align-items: center;
+    text-decoration: none;
+}
+.design{
+    cursor: pointer;
+}
+.registerMaster{
+    /* background: plum; */
+    margin-top: 30px;
+}
+.FormCenter{
+    margin-top: 30px;
+    /* background: plum; */
+}
